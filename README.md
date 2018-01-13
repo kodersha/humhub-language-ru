@@ -6,7 +6,7 @@ Correct russian language translations for HumHub.
 - Replace all files
 
 ## Author
-Alexandra Travkina - [thrashed.ru](http://thrashed.ru)
+Alexandra Travkina - [milkleaks.ru](http://milkleaks.ru)
 
 
 
@@ -18,4 +18,4 @@ Alexandra Travkina - [thrashed.ru](http://thrashed.ru)
 - Заменить все файлы
 
 ## Автор
-Александра Травкина - [thrashed.ru](http://thrashed.ru)
+Александра Травкина - [milkleaks.ru](http://milkleaks.ru)
