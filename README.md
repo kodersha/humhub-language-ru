@@ -1,4 +1,6 @@
 # humhub-language-ru
+**Outdated and does not supported**
+
 Correct russian language translations for HumHub.
 
 ## Install
@@ -6,7 +8,7 @@ Correct russian language translations for HumHub.
 - Replace all files
 
 ## Author
-Alexandra Travkina - [milkleaks.ru](http://milkleaks.ru)
+Alexandra Travkina - [fixel.ru](http://fixel.ru)
 
 
 
@@ -18,4 +20,4 @@ Alexandra Travkina - [milkleaks.ru](http://milkleaks.ru)
 - Заменить все файлы
 
 ## Автор
-Александра Травкина - [milkleaks.ru](http://milkleaks.ru)
+Александра Травкина - [fixel.ru](http://fixel.ru)
